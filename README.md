@@ -1,4 +1,4 @@
-# Synthetic Patient Data Simulation
+# Healthcare Readmission Risk Simulation
 
 ### Modeling Realistic Hospital Readmission Patterns with Python
 
